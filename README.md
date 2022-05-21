@@ -29,4 +29,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - git remote add origin https://github.com/linyiyi/Climate-Database.git
 - git push --set-upstream origin master
 - git push -u origin master  
+- git push -f
+- git pull
 - git remote -v
