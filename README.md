@@ -11,6 +11,7 @@ git commit -m "add README.md & gitignore"
 git add -m "first commit" 
 git status 
 git branch -M master  
+git log --oneline
 git remote add origin https://github.com/linyiyi/Climate-Database.git
 git push -u origin master  
 git remote -v
