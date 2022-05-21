@@ -32,3 +32,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - git push -f
 - git pull
 - git remote -v
+
+- git clone https://github.com/linyiyi/Climate-Database.git
+
+
