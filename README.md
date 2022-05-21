@@ -6,8 +6,10 @@ author: YiJyun Lin
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 
 git init  
-git add README.md
-git add -m "first commit"  
+git add .
+git commit -m "add README.md & gitignore"
+git add -m "first commit" 
+git status 
 git branch -M master  
 git remote add origin https://github.com/linyiyi/Climate-Database.git
 git push -u origin master  
